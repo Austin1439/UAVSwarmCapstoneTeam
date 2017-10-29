@@ -6,16 +6,10 @@ lab sponsored project.
 
 ## Team Members
 ### Capstone Students
-Kelby Haulmark
-Adam Schoelz
-Ryan Stewart
-Jeremy Willbern
-Austin Willey
-Evan Young
+Kelby Haulmark, Adam Schoelz, Ryan Stewart, Jeremy Willbern, Austin Willey, Evan Young
 
 ### Lab Sponsors
-Christophe Bobda
-Taylor JL Whitaker
+Christophe Bobda, Taylor JL Whitaker
 
 ## Project Summary
 With previous work into creating a scalable platform for UAS research resulting in the
