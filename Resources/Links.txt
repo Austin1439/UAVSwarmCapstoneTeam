@@ -1,0 +1,12 @@
+Arducopter
+http://ardupilot.org/copter/
+
+Zybo FPGA Board Resources
+https://reference.digilentinc.com/reference/programmable-logic/zybo-z7/start
+
+ZynqBerry FPGA
+https://shop.trenz-electronic.de/en/TE0726-03M-ZynqBerry-Zynq-7010-in-Raspberry-Pi-form-factor?c=350
+
+Embedded Linux Intro: http://www.engineersgarage.com/tutorials/embedded-linux-basics-programming?page=1
+
+PetaLinux Intro Tutorial: http://www.xilinx.com/support/documentation/sw_manuals/xilinx2016_2/ug1156-petalinux-tools-workflow-tutorial.pdf
